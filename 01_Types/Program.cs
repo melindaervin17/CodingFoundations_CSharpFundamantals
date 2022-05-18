@@ -55,7 +55,7 @@ isNotDeclared = false;
 System.Console.WriteLine(isNotDeclared);
 
 /*
-! Cahracters
+! Characters
 	- char: 2 bytes
 		- Stores single character/letter, surrounded by a single quote ' '
 */

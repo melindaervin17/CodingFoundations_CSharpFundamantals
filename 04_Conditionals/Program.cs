@@ -109,7 +109,7 @@ switch(sampleInput)
 		break;
 }	
 
-string today = "Saturday";
+string today = "saturday";
 
 switch (today)
 {
@@ -129,13 +129,15 @@ switch (today)
 		break;
 }
 
+intInput = 8;
+
 //! Switch Expression
 order = intInput switch
 {
 		1 => "burger and fries",
 		2 => "chicken sandwich",
 		3 or 4 => "burrito",
-		_=> "cup of water"
+		_ => "cup of water"
 };
 System.Console.WriteLine(order);
 
@@ -144,7 +146,6 @@ System.Console.WriteLine(order);
 	- shorthand for if and if/else conditonal
 	- meant to assign a value to a variable
 */
-
 
 int userAge = 71;
 bool isAdult = (userAge > 17) ? true : false;

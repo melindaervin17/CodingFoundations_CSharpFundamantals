@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Operators", "03_Operator
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04_Conditionals", "04_Conditionals\04_Conditionals.csproj", "{F9DF28AD-708C-4412-85FF-F3D359503EF1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05_Loops", "05_Loops\05_Loops.csproj", "{C91CAF31-E023-4180-B7B7-814DBEAFD036}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +38,9 @@ Global
 		{F9DF28AD-708C-4412-85FF-F3D359503EF1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F9DF28AD-708C-4412-85FF-F3D359503EF1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F9DF28AD-708C-4412-85FF-F3D359503EF1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C91CAF31-E023-4180-B7B7-814DBEAFD036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C91CAF31-E023-4180-B7B7-814DBEAFD036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C91CAF31-E023-4180-B7B7-814DBEAFD036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C91CAF31-E023-4180-B7B7-814DBEAFD036}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
